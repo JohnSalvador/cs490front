@@ -1,0 +1,696 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"create",
+				"createXmlHttpRequestObject"
+			],
+			[
+				"align",
+				"text-align"
+			],
+			[
+				"ver",
+				"vertical-align"
+			],
+			[
+				"session",
+				"session"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 4919,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "grading.php",
+			"settings":
+			{
+				"buffer_size": 770,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "teacherscripts.js",
+			"settings":
+			{
+				"buffer_size": 16004,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/cs490back/dbfunctions.php",
+			"settings":
+			{
+				"buffer_size": 6137,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "grades.php",
+			"settings":
+			{
+				"buffer_size": 609,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scripts.js",
+			"settings":
+			{
+				"buffer_size": 8981,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/cs490/mid.php",
+			"settings":
+			{
+				"buffer_size": 18361,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "common.js",
+			"settings":
+			{
+				"buffer_size": 6998,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/cs490back/index.php",
+			"settings":
+			{
+				"buffer_size": 29140,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 111.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/pegasus_php/public_html/javascript/index.html",
+		"/C/xampp/htdocs/cs490front/teacherscripts.js",
+		"/C/xampp/htdocs/cs490front/grading.php",
+		"/C/xampp/htdocs/cs490/functions.php",
+		"/C/xampp/htdocs/cs490front/transmit.php",
+		"/C/xampp/htdocs/cs490front/_partials/teacherheader.php",
+		"/C/xampp/htdocs/cs490front/_partials/studentheader.php",
+		"/C/xampp/htdocs/cs490front/student.php",
+		"/C/xampp/htdocs/cs490back/index.php",
+		"/C/xampp/htdocs/cs490/mid.php",
+		"/C/xampp/htdocs/cs490front/scripts.js",
+		"/C/xampp/htdocs/cs490back/dbfunctions.php",
+		"/C/xampp/htdocs/cs490back/includes/connection.php",
+		"/C/xampp/htdocs/cs490front/common.js",
+		"/C/xampp/htdocs/cs490front/style.css",
+		"/C/xampp/htdocs/cs490front/test.php",
+		"/C/xampp/htdocs/cs490front/question.php",
+		"/C/xampp/htdocs/cs490front/_partials/teacherfooter.php",
+		"/C/xampp/htdocs/cs490front/_partials/studentfooter.php",
+		"/C/xampp/htdocs/cs490front/teacher.php",
+		"/C/xampp/htdocs/cs490front/index.php",
+		"/C/xampp/htdocs/cs490front/logout.php",
+		"/C/xampp/htdocs/broken.php",
+		"/C/Users/zero__000/Documents/index.html",
+		"/C/xampp/htdocs/OUCPRepo/public_html/MainSystem/admin.php",
+		"/C/xampp/htdocs/CS490/mid.php",
+		"/C/xampp/htdocs/CS490/functions.php",
+		"/C/xampp/htdocs/cs490front/loadscript.js",
+		"/C/Users/zero__000/AppData/Local/Temp/Temp1_jquery-ui-1.11.1.custom.zip/jquery-ui-1.11.1.custom/index.html",
+		"/C/xampp/htdocs/cs490front/script.js",
+		"/C/xampp/htdocs/OUCPRepo/public_html/PhoneLog/index.php",
+		"/C/xampp/htdocs/pegasus_php/public_html/jQuery/lesson5/index.html",
+		"/C/xampp/htdocs/pegasus_php/public_html/jQuery/lesson4/index.html",
+		"/C/xampp/htdocs/CS490/login.class.php",
+		"/C/xampp/htdocs/pegasus_php/public_html/jQuery/lesson6/index.html",
+		"/C/xampp/htdocs/pegasus_php/public_html/jQuery/lesson3/index.html",
+		"/C/xampp/htdocs/pegasus_php/public_html/jQuery/lesson2/index.html",
+		"/C/xampp/htdocs/pegasus_php/public_html/jQuery/lesson1/index.html",
+		"/C/xampp/htdocs/OUCPRepo/public_html/Schedule/user.php",
+		"/C/xampp/htdocs/OUCPRepo/public_html/Schedule/admin.php",
+		"/C/xampp/htdocs/OUCPRepo/public_html/Schedule/index.php",
+		"/C/xampp/htdocs/OUCPRepo/public_html/Schedule/js/user.js",
+		"/C/xampp/htdocs/cs490front/normalize.css",
+		"/C/xampp/htdocs/OUCPRepo/public_html/MainSystem/js/admin.js",
+		"/C/xampp/htdocs/CS490/source.php",
+		"/C/Users/zero__000/AppData/Local/Microsoft/Windows/INetCache/IE/LFVGF629/index.css",
+		"/C/xampp/htdocs/Intro_Database/public_html/Database_Project1/console.php",
+		"/C/xampp/htdocs/index.php",
+		"/C/xampp/htdocs/cs490front/login.php",
+		"/C/xampp/htdocs/OUCPRepo/public_html/MainSystem/model/employee.class.php",
+		"/C/xampp/htdocs/OUCPRepo/public_html/Schedule/php/Connect.php",
+		"/C/xampp/htdocs/OUCPRepo/public_html/MainSystem/model/oucp_user.class.php",
+		"/C/xampp/htdocs/OUCPRepo/public_html/config.php",
+		"/C/xampp/htdocs/cs490front/test.txt",
+		"/C/xampp/htdocs/Intro_Database/public_html/config.php",
+		"/C/xampp/htdocs/cs490back/backend.php",
+		"/C/xampp/htdocs/OUCPRepo/public_html/ProjectEventArchive/php/Core.php",
+		"/C/xampp/htdocs/Intro_Database/public_html/Database_Project1/connect.php",
+		"/C/xampp/htdocs/OUCPRepo/public_html/MainSystem/functions.php",
+		"/C/xampp/htdocs/OUCPRepo/public_html/MainSystem/availability.class.php",
+		"/C/xampp/htdocs/OUCPRepo/public_html/ProjectEventArchive/index.php",
+		"/C/xampp/htdocs/OUCPRepo/public_html/MainSystem/Main System.sublime-workspace",
+		"/C/xampp/htdocs/OUCPRepo/public_html/MainSystem/login.php",
+		"/C/xampp/htdocs/OUCPRepo/public_html/MainSystem/user.php",
+		"/C/xampp/htdocs/OUCPRepo/public_html/MainSystem/css/style.css",
+		"/C/xampp/htdocs/OUCPRepo/public_html/MainSystem/index.php",
+		"/C/xampp/htdocs/pegasus_php/public_html/series/postgetrequest/index.php",
+		"/C/xampp/htdocs/OUCPRepo/public_html/MainSystem/specification.php",
+		"/C/Users/zero__000/SkyDrive/College/JC College/2013 Fall/Intensive Programming Practicum CS 288/Assignment1/reverse.sh",
+		"/C/xampp/htdocs/Intro_Database/public_html/Database_Project3/lookupdoctor.php",
+		"/C/xampp/htdocs/pegasus_php/public_html/series/usersystem/index.php",
+		"/C/xampp/htdocs/OUCPRepo/public_html/Zend/ZendFramework-2.3.1/bin/autoload_example.php",
+		"/C/xampp/htdocs/oucpform/bootstrap/start.php",
+		"/C/Users/zero__000/Desktop/STAR/Main.html",
+		"/C/xampp/htdocs/OUCPRepo/public_html/MainSystem/_partial/footer.php",
+		"/C/xampp/htdocs/OUCPRepo/public_html/MainSystem/_partial/header.php",
+		"/E/ChekkedIn/server.php",
+		"/C/xampp/htdocs/OUCPRepo/public_html/MainSystem/model/administrator.class.php",
+		"/C/xampp/htdocs/Intro_Database/public_html/Database_Project3/header.php",
+		"/C/xampp/htdocs/Intro_Database/public_html/Database_Project4/stockdownloader.php",
+		"/C/xampp/htdocs/Intro_Database/public_html/chat/chat.class.php",
+		"/C/xampp/htdocs/Intro_Database/public_html/chat/chat.php",
+		"/C/xampp/htdocs/Intro_Database/public_html/chat/chat.js",
+		"/C/xampp/htdocs/Intro_Database/public_html/chat/config.php",
+		"/C/xampp/htdocs/Intro_Database/public_html/Database_Project3/index.php",
+		"/C/xampp/htdocs/Intro_Database/public_html/Database_Project4/index.php",
+		"/C/xampp/htdocs/Intro_Database/public_html/wordpress/wp-content/themes/index.php",
+		"/C/xampp/htdocs/pegasus_php/public_html/bootstrap/index.html",
+		"/C/xampp/htdocs/Intro_Database/public_html/Database_Project3/lookuppatient.php",
+		"/C/xampp/htdocs/Intro_Database/public_html/Database_Project3/php/connect.php",
+		"/C/xampp/htdocs/Intro_Database/public_html/Database_Project3/lookupnurse.php",
+		"/C/xampp/htdocs/Intro_Database/public_html/Database_Project3/php/core.php",
+		"/C/xampp/htdocs/Intro_Database/public_html/Database_Project3/addpayroll.php",
+		"/C/xampp/htdocs/Intro_Database/public_html/wordpress/wp-content/themes/mytheme/index.php",
+		"/C/xampp/htdocs/Intro_Database/public_html/wordpress/wp-content/themes/mytheme/style.css",
+		"/C/xampp/htdocs/Intro_Database/public_html/wordpress/wp-content/themes/mytheme/functions.php",
+		"/C/xampp/htdocs/Intro_Database/public_html/wordpress/wp-content/themes/mytheme/header.php",
+		"/C/xampp/htdocs/Intro_Database/public_html/wordpress/wp-content/themes/mytheme/footer.php",
+		"/C/xampp/htdocs/test/jsondecoder.php",
+		"/C/xampp/htdocs/Intro_Database/public_html/wordpress/wp-activate.php",
+		"/C/xampp/htdocs/oucpform/public/js/app.js",
+		"/C/xampp/htdocs/Intro_Database/public_html/wordpress/wp-config.php",
+		"/C/Users/zero__000/Downloads/jbs44.sql",
+		"/C/xampp/htdocs/Intro_Database/public_html/Database_Project1/index.php",
+		"/C/xampp/htdocs/Intro_Database/public_html/Database_Project1/playlist.php",
+		"/C/xampp/phpMyAdmin/config.inc.php",
+		"/C/xampp/htdocs/OUCP/public_html/MainSystem/employee.php",
+		"/C/xampp/htdocs/pegasus_php/public_html/jQuery/lesson7/index.html",
+		"/C/xampp/htdocs/pegasus_php/public_html/jQuery/lesson5/style.css",
+		"/C/xampp/htdocs/Intro_Database/public_html/Database_Project1/album.php",
+		"/C/xampp/htdocs/oucpform/public/css/style.css",
+		"/C/xampp/htdocs/oucpform/app/views/layouts/master.blade.php",
+		"/C/xampp/htdocs/oucpform/app/views/form.blade.php",
+		"/C/Users/zero__000/Pictures/Collegiatelink/index.html",
+		"/C/xampp/htdocs/OUCPRepo/public_html/MainSystem/logout.php",
+		"/C/Users/zero__000/SkyDrive/College/JC College/2014 Spring/Intro to Computer Networks/Project/SocketServer.java",
+		"/C/xampp/htdocs/oucpform/public/index.php",
+		"/C/xampp/htdocs/oucpform/app/filters.php",
+		"/C/Users/zero__000/SkyDrive/College/JC College/2012 Spring/CIS 102/Class Example/MidpointFormula/src/midpointformula/MidpointFormula.java",
+		"/C/xampp/htdocs/OUCPRepo/public_html/Schedule/php/schedule.class.php",
+		"/C/xampp/htdocs/OUCPRepo/public_html/Schedule/php/AdminLogout.php",
+		"/C/xampp/htdocs/OUCPRepo/public_html/Schedule/php/Core.php",
+		"/C/Users/zero__000/Application Data/SSH/temp/admin.php",
+		"/C/xampp/htdocs/OUCPRepo/public_html/MainSystem/oucp_user.class.php",
+		"/C/xampp/htdocs/OUCPRepo/public_html/Scheduler/availability.class.php",
+		"/C/xampp/htdocs/OUCPRepo/public_html/MainSystem/administrator.class.php",
+		"/C/xampp/htdocs/OUCPRepo/public_html/MainSystem/employee.class.php",
+		"/F/Users/John/Pictures/registeremployee.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"//CHANGED",
+			"//ADDED",
+			"//CHANGED",
+			"FetchTestAnswer",
+			"readAnswer",
+			"fetchTestAnswer",
+			"ungraded",
+			"Ungraded",
+			"testID",
+			"$ungraded",
+			"fetchUngra",
+			"fetchGraded",
+			"fetchGradedAnswer",
+			"submitCorrections",
+			"updateAnswer",
+			"//test",
+			"echo",
+			"updateAnswer",
+			"$command",
+			"updateAnswer(",
+			"updateAnswer",
+			"echo",
+			"updateAnswer",
+			"Answer",
+			"updateAnswer",
+			"answer",
+			"Answer",
+			"verifyAnswer",
+			"$answer",
+			"arrayAnswer",
+			"insertgrade",
+			"UPDATE",
+			"$grade",
+			"ShowTest",
+			"Answer",
+			"ShowTest",
+			"ungradedanswer",
+			"ungradednas",
+			"for(",
+			"resp",
+			"childNode",
+			"showTest",
+			"#test",
+			".TestID",
+			"JSON.string",
+			"seeAnswer",
+			"readAnswer",
+			"readTest",
+			"getvar",
+			"get",
+			".qqn",
+			"Login",
+			"input",
+			"qqn",
+			"answer",
+			"childNodes",
+			"input",
+			"takeTest",
+			"font-size",
+			"var test",
+			"ShowTest",
+			"Login",
+			"ReadTest",
+			"Login",
+			"submit",
+			"console.log",
+			"questiontable",
+			"Login",
+			"course",
+			"Login",
+			"gif",
+			"console.log",
+			"value",
+			"print",
+			"$bounce",
+			".html",
+			"ACA021",
+			"EmployeeList",
+			"overflow",
+			"FaqLinks"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "style.css",
+					"settings":
+					{
+						"buffer_size": 4919,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "grading.php",
+					"settings":
+					{
+						"buffer_size": 770,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								716,
+								637
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "teacherscripts.js",
+					"settings":
+					{
+						"buffer_size": 16004,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14917,
+								14933
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 5848.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/xampp/htdocs/cs490back/dbfunctions.php",
+					"settings":
+					{
+						"buffer_size": 6137,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5044,
+								5046
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 420.0,
+						"translation.y": 1558.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "grades.php",
+					"settings":
+					{
+						"buffer_size": 609,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								538,
+								538
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "scripts.js",
+					"settings":
+					{
+						"buffer_size": 8981,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7873,
+								7873
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2954.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/xampp/htdocs/cs490/mid.php",
+					"settings":
+					{
+						"buffer_size": 18361,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16192,
+								16192
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5130.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "common.js",
+					"settings":
+					{
+						"buffer_size": 6998,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4025,
+								4025
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/xampp/htdocs/cs490back/index.php",
+					"settings":
+					{
+						"buffer_size": 29140,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13038,
+								13047
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 165.0,
+						"translation.y": 3573.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.413358089362,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 173.0,
+	"status_bar_visible": true
+}
